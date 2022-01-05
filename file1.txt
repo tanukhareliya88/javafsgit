@@ -13,3 +13,5 @@ work item 5 in pregress WI5.
 
 work item 6 added WI6.
 
+new added WI7 on remote master by team mate bug 3
+
