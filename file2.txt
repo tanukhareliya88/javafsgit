@@ -5,3 +5,5 @@
 3. to fix the bug1.
 
 4. change for rebase on cr2.
+
+5. change on remote master by team mate on WI cr1
