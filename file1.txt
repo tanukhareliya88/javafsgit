@@ -11,3 +11,5 @@ change for bug2.
 
 work item 5 in pregress WI5.
 
+work item 6 added WI6.
+
